@@ -2594,6 +2594,24 @@
       "intensity": "",
       "volume": "",
       "place": ""
+    },
+    {
+      "id": "it5x9xy6",
+      "title": "Bank Reconciliation HSBC",
+      "type": "task",
+      "profile": "work",
+      "course": "",
+      "date": "2026-08-28",
+      "start": "09:00",
+      "end": "10:00",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "work"
