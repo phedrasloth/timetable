@@ -2305,6 +2305,21 @@
       "weight": "",
       "status": "not-started",
       "notes": ""
+    },
+    {
+      "id": "ihgxuuhz",
+      "title": "REVISION - SEMINAR 2 [MACHINE LEARNING]",
+      "type": "revision",
+      "profile": "study",
+      "course": "ENG335",
+      "date": "2026-08-22",
+      "start": "12:00",
+      "end": "15:00",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": ""
     }
   ],
   "profileId": "study"
