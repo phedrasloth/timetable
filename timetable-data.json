@@ -2414,6 +2414,24 @@
       "intensity": "Hard",
       "volume": "",
       "place": "24/7 Fitness"
+    },
+    {
+      "id": "i7cwbwn0",
+      "title": "Full Body Strength Training",
+      "type": "cardio",
+      "profile": "fitness",
+      "course": "",
+      "date": "2026-08-23",
+      "start": "05:00",
+      "end": "07:00",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "Hard",
+      "volume": "",
+      "place": "24/7 Fitness"
     }
   ],
   "profileId": "fitness"
