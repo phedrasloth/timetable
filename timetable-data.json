@@ -724,6 +724,31 @@
           "weight": "70"
         }
       ]
+    },
+    {
+      "id": "ccse0c0",
+      "code": "ICT162",
+      "title": "OBJECT ORIENTED PROGRAMMING (RESIT)",
+      "profile": "study",
+      "classType": "class",
+      "classDays": [
+        3
+      ],
+      "classStart": "19:00",
+      "classEnd": "22:00",
+      "classFrom": "2026-08-24",
+      "classUntil": "2026-11-16",
+      "sessions": [],
+      "quizzes": [],
+      "assessments": [
+        {
+          "type": "exam",
+          "label": "Final exam",
+          "date": "2026-11-19",
+          "time": "16:00",
+          "weight": "100"
+        }
+      ]
     }
   ],
   "items": [
@@ -2248,6 +2273,23 @@
       "title": "Final exam — ICT259",
       "type": "exam",
       "date": "2026-11-16"
+    },
+    {
+      "id": "i94s7cpu",
+      "courseId": "ccse0c0",
+      "profile": "study",
+      "course": "ICT162",
+      "repeat": "none",
+      "status": "not-started",
+      "weight": "100",
+      "notes": "",
+      "start": "16:00",
+      "end": "",
+      "until": "",
+      "srcKey": "ass|Final exam|2026-11-19",
+      "title": "Final exam — ICT162",
+      "type": "exam",
+      "date": "2026-11-19"
     }
   ],
   "profileId": "study"
