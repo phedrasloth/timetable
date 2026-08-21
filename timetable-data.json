@@ -378,28 +378,28 @@
           "label": "PCQ01",
           "date": "2026-08-14",
           "time": "23:55",
-          "weight": "5"
+          "weight": "1"
         },
         {
           "type": "pcq",
           "label": "PCQ02",
           "date": "2026-09-02",
           "time": "23:55",
-          "weight": "5"
+          "weight": "1"
         },
         {
           "type": "pcq",
           "label": "PCQ03",
           "date": "2026-10-14",
           "time": "23:55",
-          "weight": "5"
+          "weight": "1"
         },
         {
           "type": "quiz",
           "label": "Quiz01",
           "date": "2026-11-02",
           "time": "23:55",
-          "weight": "10"
+          "weight": "3"
         }
       ],
       "assessments": [
@@ -408,14 +408,14 @@
           "label": "TMA01",
           "date": "2026-09-25",
           "time": "23:55",
-          "weight": "20"
+          "weight": "24"
         },
         {
           "type": "exam",
           "label": "Final exam",
           "date": "2026-11-11",
           "time": "13:00",
-          "weight": ""
+          "weight": "68"
         }
       ]
     }
@@ -1202,7 +1202,7 @@
       "course": "ICT114",
       "repeat": "none",
       "status": "not-started",
-      "weight": "5",
+      "weight": "1",
       "notes": "",
       "start": "23:55",
       "end": "",
@@ -1219,7 +1219,7 @@
       "course": "ICT114",
       "repeat": "none",
       "status": "not-started",
-      "weight": "5",
+      "weight": "1",
       "notes": "",
       "start": "23:55",
       "end": "",
@@ -1236,7 +1236,7 @@
       "course": "ICT114",
       "repeat": "none",
       "status": "not-started",
-      "weight": "5",
+      "weight": "1",
       "notes": "",
       "start": "23:55",
       "end": "",
@@ -1253,7 +1253,7 @@
       "course": "ICT114",
       "repeat": "none",
       "status": "not-started",
-      "weight": "10",
+      "weight": "3",
       "notes": "",
       "start": "23:55",
       "end": "",
@@ -1270,7 +1270,7 @@
       "course": "ICT114",
       "repeat": "none",
       "status": "not-started",
-      "weight": "20",
+      "weight": "24",
       "notes": "",
       "start": "23:55",
       "end": "",
@@ -1287,7 +1287,7 @@
       "course": "ICT114",
       "repeat": "none",
       "status": "not-started",
-      "weight": "",
+      "weight": "68",
       "notes": "",
       "start": "13:00",
       "end": "",
