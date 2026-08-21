@@ -1,0 +1,88 @@
+{
+  "profiles": [
+    {
+      "id": "study",
+      "name": "Study",
+      "initial": "S"
+    },
+    {
+      "id": "work",
+      "name": "Work",
+      "initial": "W"
+    },
+    {
+      "id": "personal",
+      "name": "Personal",
+      "initial": "P"
+    },
+    {
+      "id": "fitness",
+      "name": "Fitness",
+      "initial": "F"
+    }
+  ],
+  "courses": [],
+  "items": [
+    {
+      "id": "iovjr10h",
+      "profile": "work",
+      "repeat": "weekly",
+      "status": "not-started",
+      "course": "",
+      "weight": "",
+      "notes": "",
+      "start": "10:00",
+      "end": "10:30",
+      "until": "2026-09-28",
+      "title": "Weekly team sync",
+      "type": "class",
+      "date": "2026-08-02"
+    },
+    {
+      "id": "ihdun1du",
+      "profile": "work",
+      "repeat": "none",
+      "status": "not-started",
+      "course": "",
+      "weight": "",
+      "notes": "",
+      "start": "17:00",
+      "end": "",
+      "until": "",
+      "title": "Q3 report to finance",
+      "type": "reminder",
+      "date": "2026-08-22"
+    },
+    {
+      "id": "ijrvomkm",
+      "profile": "personal",
+      "repeat": "none",
+      "status": "not-started",
+      "course": "",
+      "weight": "",
+      "notes": "",
+      "start": "15:30",
+      "end": "",
+      "until": "",
+      "title": "Dentist",
+      "type": "reminder",
+      "date": "2026-08-14"
+    },
+    {
+      "id": "icgqk1g0",
+      "profile": "fitness",
+      "repeat": "weekly",
+      "status": "not-started",
+      "course": "",
+      "weight": "",
+      "notes": "",
+      "start": "07:00",
+      "end": "08:30",
+      "until": "2026-09-28",
+      "title": "Long run — 12 km",
+      "type": "class",
+      "date": "2026-08-06"
+    }
+  ],
+  "profileId": "study"
+}
