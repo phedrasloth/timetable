@@ -2365,6 +2365,21 @@
       "weight": "",
       "status": "not-started",
       "notes": ""
+    },
+    {
+      "id": "i2gclv21",
+      "title": "REVISION - SEMINAR 1 [COMPUTER NETWORKING]",
+      "type": "class",
+      "profile": "study",
+      "course": "ICT259",
+      "date": "2026-08-23",
+      "start": "18:00",
+      "end": "20:00",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": ""
     }
   ],
   "profileId": "study"
