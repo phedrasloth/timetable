@@ -2468,6 +2468,24 @@
       "intensity": "",
       "volume": "",
       "place": ""
+    },
+    {
+      "id": "irs6at1n",
+      "title": "Fixed Asset Module Automation",
+      "type": "event",
+      "profile": "work",
+      "course": "",
+      "date": "2026-08-24",
+      "start": "13:00",
+      "end": "18:00",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "work"
