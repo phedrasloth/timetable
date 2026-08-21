@@ -2324,6 +2324,24 @@
       "weight": "",
       "status": "not-started",
       "notes": ""
+    },
+    {
+      "id": "ivjbh358",
+      "title": "Interval Run with Babs",
+      "type": "cardio",
+      "profile": "fitness",
+      "course": "",
+      "date": "2026-08-22",
+      "start": "06:30",
+      "end": "08:00",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "Hard",
+      "volume": "",
+      "place": "CCK Stadium"
     }
   ],
   "profileId": "fitness"
