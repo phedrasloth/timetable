@@ -2378,6 +2378,24 @@
       "intensity": "",
       "volume": "",
       "place": "Fusionopolis"
+    },
+    {
+      "id": "iwwrti2y",
+      "title": "Swimming",
+      "type": "cardio",
+      "profile": "fitness",
+      "course": "",
+      "date": "2026-08-27",
+      "start": "19:40",
+      "end": "21:00",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "",
+      "volume": "",
+      "place": "Westgate"
     }
   ],
   "profileId": "fitness"
