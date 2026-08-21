@@ -2666,6 +2666,24 @@
       "intensity": "",
       "volume": "",
       "place": ""
+    },
+    {
+      "id": "ibj184iq",
+      "title": "Post Manual Journal Entries",
+      "type": "event",
+      "profile": "work",
+      "course": "",
+      "date": "2026-08-28",
+      "start": "14:30",
+      "end": "16:30",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "work"
