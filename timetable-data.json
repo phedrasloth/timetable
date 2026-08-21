@@ -2396,6 +2396,24 @@
       "intensity": "",
       "volume": "",
       "place": "Westgate"
+    },
+    {
+      "id": "ikqan0im",
+      "title": "Full Body Strength Training",
+      "type": "strength",
+      "profile": "fitness",
+      "course": "",
+      "date": "2026-08-21",
+      "start": "21:00",
+      "end": "23:00",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "Hard",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "fitness"
