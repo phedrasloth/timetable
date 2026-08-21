@@ -2335,6 +2335,21 @@
       "weight": "",
       "status": "not-started",
       "notes": ""
+    },
+    {
+      "id": "ir762hsa",
+      "title": "REVISION - SEMINAR 2 [WEB APPLICATION DEVELOPMENT]",
+      "type": "revision",
+      "profile": "study",
+      "course": "ICT239",
+      "date": "2026-08-23",
+      "start": "07:00",
+      "end": "10:00",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": ""
     }
   ],
   "profileId": "study"
