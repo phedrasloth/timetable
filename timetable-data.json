@@ -2360,6 +2360,24 @@
       "intensity": "",
       "volume": "60 Minutes",
       "place": "Junction 10"
+    },
+    {
+      "id": "im20whto",
+      "title": "Hyrox HIIT Training with Babs",
+      "type": "hybrid",
+      "profile": "fitness",
+      "course": "",
+      "date": "2026-08-24",
+      "start": "19:30",
+      "end": "21:00",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "fitness"
