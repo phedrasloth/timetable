@@ -2432,6 +2432,24 @@
       "intensity": "Hard",
       "volume": "",
       "place": "24/7 Fitness"
+    },
+    {
+      "id": "iy04s40b",
+      "title": "Stripe Payout Reconciliation SG",
+      "type": "task",
+      "profile": "work",
+      "course": "",
+      "date": "2026-08-24",
+      "start": "09:00",
+      "end": "10:30",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "work"
