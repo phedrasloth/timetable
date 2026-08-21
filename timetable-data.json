@@ -2320,6 +2320,21 @@
       "weight": "",
       "status": "not-started",
       "notes": ""
+    },
+    {
+      "id": "iscbclpn",
+      "title": "REVISION - SEMINAR 1 [WEB APPLICATION DEVELOPMENT]",
+      "type": "revision",
+      "profile": "study",
+      "course": "ICT239",
+      "date": "2026-08-22",
+      "start": "18:00",
+      "end": "21:00",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": ""
     }
   ],
   "profileId": "study"
