@@ -2290,6 +2290,21 @@
       "title": "Final exam — ICT162",
       "type": "exam",
       "date": "2026-11-19"
+    },
+    {
+      "id": "ikz93hj7",
+      "title": "REVISION - SEMINAR 1",
+      "type": "revision",
+      "profile": "study",
+      "course": "ENG335",
+      "date": "2026-08-21",
+      "start": "19:00",
+      "end": "22:00",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": ""
     }
   ],
   "profileId": "study"
