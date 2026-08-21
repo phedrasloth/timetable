@@ -2342,6 +2342,24 @@
       "intensity": "Hard",
       "volume": "",
       "place": "CCK Stadium"
+    },
+    {
+      "id": "ia606a7n",
+      "title": "Machine Row Zone 2",
+      "type": "cardio",
+      "profile": "fitness",
+      "course": "",
+      "date": "2026-08-25",
+      "start": "18:00",
+      "end": "19:00",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "",
+      "volume": "60 Minutes",
+      "place": "Junction 10"
     }
   ],
   "profileId": "fitness"
