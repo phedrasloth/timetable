@@ -753,21 +753,6 @@
   ],
   "items": [
     {
-      "id": "icgqk1g0",
-      "profile": "fitness",
-      "repeat": "weekly",
-      "status": "not-started",
-      "course": "",
-      "weight": "",
-      "notes": "",
-      "start": "07:00",
-      "end": "08:30",
-      "until": "2026-09-28",
-      "title": "Long run — 12 km",
-      "type": "class",
-      "date": "2026-08-06"
-    },
-    {
       "id": "idcpdola",
       "courseId": "c2mec0z",
       "profile": "study",
