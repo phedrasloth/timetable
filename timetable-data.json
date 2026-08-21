@@ -3,22 +3,26 @@
     {
       "id": "study",
       "name": "Study",
-      "initial": "S"
+      "initial": "S",
+      "kind": "study"
     },
     {
       "id": "work",
       "name": "Work",
-      "initial": "W"
+      "initial": "W",
+      "kind": "general"
     },
     {
       "id": "personal",
       "name": "Personal",
-      "initial": "P"
+      "initial": "P",
+      "kind": "general"
     },
     {
       "id": "fitness",
       "name": "Fitness",
-      "initial": "F"
+      "initial": "F",
+      "kind": "fitness"
     }
   ],
   "courses": [
