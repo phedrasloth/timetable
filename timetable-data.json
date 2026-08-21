@@ -2648,6 +2648,24 @@
       "intensity": "",
       "volume": "",
       "place": ""
+    },
+    {
+      "id": "iy6qt87s",
+      "title": "Register New Fixed Asset Additions",
+      "type": "task",
+      "profile": "work",
+      "course": "",
+      "date": "2026-08-28",
+      "start": "11:30",
+      "end": "13:30",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "work"
