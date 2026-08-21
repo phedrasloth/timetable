@@ -753,21 +753,6 @@
   ],
   "items": [
     {
-      "id": "iovjr10h",
-      "profile": "work",
-      "repeat": "weekly",
-      "status": "not-started",
-      "course": "",
-      "weight": "",
-      "notes": "",
-      "start": "10:00",
-      "end": "10:30",
-      "until": "2026-09-28",
-      "title": "Weekly team sync",
-      "type": "class",
-      "date": "2026-08-02"
-    },
-    {
       "id": "ijrvomkm",
       "profile": "personal",
       "repeat": "none",
