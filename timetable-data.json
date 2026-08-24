@@ -2741,6 +2741,24 @@
       "intensity": "",
       "volume": "",
       "place": ""
+    },
+    {
+      "id": "i3wne9z2",
+      "title": "Payroll Entries Book In",
+      "type": "task",
+      "profile": "work",
+      "course": "",
+      "date": "2026-08-28",
+      "start": "",
+      "end": "",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "work"
