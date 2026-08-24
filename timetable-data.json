@@ -2687,6 +2687,24 @@
       "intensity": "",
       "volume": "",
       "place": ""
+    },
+    {
+      "id": "i8ufvcft",
+      "title": "Bank Reconciliation DBS 5103 [1/3]",
+      "type": "task",
+      "profile": "work",
+      "course": "",
+      "date": "2026-08-25",
+      "start": "",
+      "end": "",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "work"
