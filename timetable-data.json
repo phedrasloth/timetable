@@ -2723,6 +2723,24 @@
       "intensity": "",
       "volume": "",
       "place": ""
+    },
+    {
+      "id": "ir9pynki",
+      "title": "RPM 12PM [Teach]",
+      "type": "cardio",
+      "profile": "fitness",
+      "course": "",
+      "date": "2026-08-24",
+      "start": "",
+      "end": "",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "done",
+      "notes": "",
+      "intensity": "Hard",
+      "volume": "",
+      "place": "Fusionopolis FF"
     }
   ],
   "profileId": "fitness"
