@@ -2939,6 +2939,24 @@
       "intensity": "",
       "volume": "",
       "place": ""
+    },
+    {
+      "id": "i3epr5nx",
+      "title": "ATA Incentive",
+      "type": "event",
+      "profile": "work",
+      "course": "",
+      "date": "2026-09-03",
+      "start": "",
+      "end": "",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "3 hours",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "work"
