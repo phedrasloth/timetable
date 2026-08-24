@@ -2799,7 +2799,7 @@
     {
       "id": "i0xr3ubb",
       "title": "Request SOAs - Challenger, Mister Mobile, MobileRelation, Moby",
-      "type": "event",
+      "type": "task",
       "profile": "work",
       "course": "",
       "date": "2026-08-31",
