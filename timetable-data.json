@@ -2777,6 +2777,24 @@
       "intensity": "",
       "volume": "",
       "place": ""
+    },
+    {
+      "id": "io3xa022",
+      "title": "Management Reporting Prep",
+      "type": "task",
+      "profile": "work",
+      "course": "",
+      "date": "2026-08-31",
+      "start": "",
+      "end": "",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "work"
