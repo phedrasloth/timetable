@@ -2723,6 +2723,24 @@
       "intensity": "Hard",
       "volume": "",
       "place": "Fusionopolis FF"
+    },
+    {
+      "id": "iaunlg0v",
+      "title": "Bank Reconciliation DBS 5103 [1/2]",
+      "type": "task",
+      "profile": "work",
+      "course": "",
+      "date": "2026-08-24",
+      "start": "",
+      "end": "",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "done",
+      "notes": "",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "work"
