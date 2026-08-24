@@ -2813,6 +2813,24 @@
       "intensity": "",
       "volume": "",
       "place": ""
+    },
+    {
+      "id": "i39oohes",
+      "title": "Chargebee Payment Sync CN + CNF",
+      "type": "task",
+      "profile": "work",
+      "course": "",
+      "date": "2026-09-01",
+      "start": "",
+      "end": "",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "work"
