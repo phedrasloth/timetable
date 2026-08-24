@@ -2903,6 +2903,24 @@
       "intensity": "",
       "volume": "",
       "place": ""
+    },
+    {
+      "id": "iucoglis",
+      "title": "ATA Corporate Billing [2/3]",
+      "type": "event",
+      "profile": "work",
+      "course": "",
+      "date": "2026-08-30",
+      "start": "",
+      "end": "",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "2 hours",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "work"
