@@ -2759,6 +2759,24 @@
       "intensity": "",
       "volume": "",
       "place": ""
+    },
+    {
+      "id": "i0cy85m4",
+      "title": "MJE - Sephora",
+      "type": "task",
+      "profile": "work",
+      "course": "",
+      "date": "2026-08-25",
+      "start": "",
+      "end": "",
+      "repeat": "none",
+      "until": "",
+      "weight": "",
+      "status": "not-started",
+      "notes": "",
+      "intensity": "",
+      "volume": "",
+      "place": ""
     }
   ],
   "profileId": "work"
